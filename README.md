@@ -1,5 +1,5 @@
 # KutuphaneOtomasyonu
-Bu proje, bir kütüphane yönetim sistemini uygulayan bir C# konsol uygulamasıdır. Temel amacı, kütüphanedeki kitap ve üye bilgilerini düzenleyebilmek ve kütüphane işlemlerini yönetebilmektir. 
+Bu proje, bir kütüphane yönetim sistemini uygulayan bir C# konsol uygulamasıdır. Temel amacı; kitapların, üyelerin ve ödünç alınan kitapların kaydedilebildiği ve aynı zamanda kitaplar hakkında yorum yapılabilen bir kütüphane yönetim uygulaması. 
 Kullanıcılar, kitapları ekleyebilir, silebilir, üyeleri ekleyebilir, silebilir, kitapları üyelere verebilir, geri alabilir, kitaplara yorum ekleyebilir ve silebilir, üyelerin aldığı kitapları listeleyebilir. Programın akışı, kullanıcıların giriş yapmasıyla başlar. Giriş yaptıktan sonra, kullanıcılar çeşitli işlemleri seçebilirler. Yeni kitap ekleyebilir, kitapları silebilir, üye ekleyebilir, üyeleri silebilir, kitapları listeleyebilir, üyeleri listeleyebilir, kitapları ödünç alabilir, geri verebilir, kitaplara yorum ekleyebilir, yorum silebilir ve kitap yorumlarını listeleyebilirler. 
 
 Sınıflar:
